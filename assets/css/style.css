@@ -1,0 +1,15 @@
+h1 {
+    font-size: x-large;
+}
+p   {
+    font-size: medium;
+}
+.crystal {
+    width: 100px;
+    height: 100px;
+}
+
+.crystal-image {
+    width: 100px;
+    height: 100px;
+}
